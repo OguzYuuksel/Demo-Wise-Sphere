@@ -9,7 +9,6 @@
 import Firebase
 import AuthenticationServices
 
-
 /// `FirebaseAuthenticatableViewModel` listens Firebase Authentication status and publish current user, current login status properties while providing sign-in, sign-out, update user information abilities.
 ///
 ///# Usage:
