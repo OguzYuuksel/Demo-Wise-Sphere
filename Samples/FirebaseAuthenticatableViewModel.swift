@@ -32,7 +32,7 @@ import AuthenticationServices
 ///            }
 ///
 ///             MARK: Functions
-///            func listenAuthSession() {
+///             func listenAuthSession() {
 ///                guard authSession != nil else {
 ///                    print("VMFirebaseAuth.listenAuthSession(): can't listen because authSession = nil")
 ///                    return
@@ -96,10 +96,10 @@ import AuthenticationServices
 ///        struct ContentView<TypePubVMAuth: FirebaseAuthenticatableViewModel>: View where TypePubVMAuth.TypeUser: ModelUserProtocol {
 ///
 ///             MARK: ViewModel/EnvironmentObject
-///            @EnvironmentObject var pubVMAuth: TypePubVMAuth
+///             @EnvironmentObject var pubVMAuth: TypePubVMAuth
 ///
 ///             MARK: View
-///            var body: some View {
+///             var body: some View {
 ///                VStack {
 ///                    VStack(spacing: 4) {
 ///                        Text("isLoggedIn: \(pubVMAuth.isLoggedIn ? "true" : "false")")
@@ -117,16 +117,16 @@ import AuthenticationServices
 ///            }
 ///
 ///             MARK: ViewProperties
-///            private var buttonLogOut: some View {
-///                Button("LogOut", action: { pubVMAuth.signOut() })
-///                    .foregroundColor(.red)
-///            }
+///             private var buttonLogOut: some View {
+///                 Button("LogOut", action: { pubVMAuth.signOut() })
+///                     .foregroundColor(.red)
+///             }
 ///
-///            private var buttonSignIn: some View {
-///                SignInWithAppleButton  { request in pubVMAuth.signInWithApple(request:  request) } onCompletion: { result in pubVMAuth.signInWithApple(result: result) }
-///                    .clipShape(Capsule())
-///                    .signInWithAppleButtonStyle(.white)
-///                    .frame(width: 280, height: 45, alignment: .center)
+///             private var buttonSignIn: some View {
+///                 SignInWithAppleButton  { request in pubVMAuth.signInWithApple(request:  request) } onCompletion: { result in pubVMAuth.signInWithApple(result: result) }
+///                     .clipShape(Capsule())
+///                     .signInWithAppleButtonStyle(.white)
+///                     .frame(width: 280, height: 45, alignment: .center)
 ///            }
 ///
 ///        }
