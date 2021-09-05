@@ -1,3 +1,18 @@
+# Technical Information
+- SwiftUI 2
+- Sign In With Apple & Firebase Authtentication & Firebase Real Time Database & App Store Subscription
+- [Sample file illustrate coding structure](./Samples/FirebaseAuthenticatableViewModel.swift)
+- MVVM Architecture
+
+  ![Groups](https://user-images.githubusercontent.com/74555694/132141876-91c7d868-32d8-4cd0-a4dc-f3727a122456.png)
+  
+- Clean & Understandable commit history
+ 
+  ![Commits](https://user-images.githubusercontent.com/74555694/132141968-965fb26a-3724-4d90-b3b0-1131cb9e0511.png)
+
+
+---
+# Product Information
 https://user-images.githubusercontent.com/74555694/132140222-87759467-81a5-462e-a367-acb4cb86feed.mp4
 
 # WiseSphere
