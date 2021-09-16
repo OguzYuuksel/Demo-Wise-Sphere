@@ -1,6 +1,7 @@
 # Technical Information
 - SwiftUI 3
 - Swift 5.5
+- SwiftLint
 - Packages:
   - Sign In With Apple
   - Firebase Authtentication
