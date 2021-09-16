@@ -5,7 +5,7 @@
   - Sign In With Apple
   - Firebase Authtentication
   - Firebase Real Time Database
-  - Storekit 2
+  - StoreKit 2
 - [Sample file illustrate coding structure](./Samples/FirebaseAuthenticatableViewModel.swift)
 - MVVM Architecture
 
