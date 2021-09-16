@@ -1,6 +1,11 @@
 # Technical Information
-- SwiftUI 2
-- Sign In With Apple & Firebase Authtentication & Firebase Real Time Database & App Store Subscription
+- SwiftUI 3
+- Swift 5.5
+- Packages:
+  - Sign In With Apple
+  - Firebase Authtentication
+  - Firebase Real Time Database
+  - Storekit 2
 - [Sample file illustrate coding structure](./Samples/FirebaseAuthenticatableViewModel.swift)
 - MVVM Architecture
 
