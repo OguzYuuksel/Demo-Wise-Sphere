@@ -10,11 +10,11 @@
 - [Sample file illustrate coding structure](./Samples/FirebaseAuthenticatableViewModel.swift)
 - MVVM Architecture
 
-  ![Groups](https://user-images.githubusercontent.com/74555694/132141876-91c7d868-32d8-4cd0-a4dc-f3727a122456.png)
+  ![Groups](https://user-images.githubusercontent.com/74555694/134815374-428e9374-07d4-44c8-8157-84d27a5482dd.png)
   
 - Clean & Understandable commit history
  
-  ![Commits](https://user-images.githubusercontent.com/74555694/132141968-965fb26a-3724-4d90-b3b0-1131cb9e0511.png)
+  ![Commits](https://user-images.githubusercontent.com/74555694/134815451-84bf6ebe-6019-49bb-929a-03473f54f659.png)
 
 
 ---
