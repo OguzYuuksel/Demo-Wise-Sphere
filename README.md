@@ -7,7 +7,7 @@
   - Firebase Authtentication
   - Firebase Real Time Database
   - StoreKit 2
-- [Sample file illustrate coding structure](./Samples/FirebaseAuthenticatableViewModel.swift)
+- [Sample file illustrate coding structure](./Samples/ServiceFirebaseRealTimeDatabaseProtocol.swift)
 - MVVM Architecture
 
   ![Groups](https://user-images.githubusercontent.com/74555694/134815374-428e9374-07d4-44c8-8157-84d27a5482dd.png)
